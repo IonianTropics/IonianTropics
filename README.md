@@ -3,11 +3,9 @@
 -->
 ## hi there👋! 
 
-<a href="https://github.com/IonianTropics" rel="me">IonianTropics</a>
-
 ## About me
 
-I'm io, a software developer from Wasington.
+I'm <a href="https://github.com/IonianTropics" rel="me">IonianTropics</a> or just io, a software developer from Wasington.
 
 - 🏳️‍⚧️ Pronouns: she/it
 - 🔭 I’m currently working on a Discord bot for Minecraft :shushing_face:
