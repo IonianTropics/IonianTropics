@@ -9,7 +9,7 @@ I'm io, a software developer from Wasington.
 
 - 🏳️‍⚧️ Pronouns: she/it
 - 🔭 I’m currently working on a Discord bot for Minecraft :shushing_face:
-- 🌱 I’m currently learning Linux command line, Discord API
+- 🌱 I’m currently learning the Linux command line
 - 👯 I’m looking to collaborate on the Rust ecosystem and game development tools
 - More at [ioniantropics.github.io](https://ioniantropics.github.io)
 
